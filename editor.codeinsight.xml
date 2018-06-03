@@ -1,0 +1,94 @@
+<application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_METHODS" value="true" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="PARAMETER_INFO_DELAY" value="200" />
+    <option name="JAVADOC_INFO_DELAY" value="200" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+    <option name="ADD_IMPORTS_ON_PASTE" value="1" />
+    <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <EXCLUDED_PACKAGE NAME="" />
+    <EXCLUDED_PACKAGE NAME="" />
+    <EXCLUDED_PACKAGE NAME="ch.qos.logback.classic.Logger" />
+    <EXCLUDED_PACKAGE NAME="com.google.api.client.repackaged" />
+    <EXCLUDED_PACKAGE NAME="com.google.api.client.repackaged.com.google.common.base.Strings" />
+    <EXCLUDED_PACKAGE NAME="com.google.api.client.util" />
+    <EXCLUDED_PACKAGE NAME="com.google.api.client.util.Joiner" />
+    <EXCLUDED_PACKAGE NAME="com.google.api.client.util.Lists" />
+    <EXCLUDED_PACKAGE NAME="com.google.api.client.util.Maps" />
+    <EXCLUDED_PACKAGE NAME="com.google.api.client.util.Preconditions" />
+    <EXCLUDED_PACKAGE NAME="com.google.api.client.util.Strings" />
+    <EXCLUDED_PACKAGE NAME="com.google.api.client.util.Throwables" />
+    <EXCLUDED_PACKAGE NAME="com.google.appengine.api.search.checkers.Preconditions" />
+    <EXCLUDED_PACKAGE NAME="com.google.appengine.api.xmpp.SendResponse" />
+    <EXCLUDED_PACKAGE NAME="com.google.appengine.repackaged" />
+    <EXCLUDED_PACKAGE NAME="com.google.fifteen.common.base.Optional" />
+    <EXCLUDED_PACKAGE NAME="com.google.fifteen.common.base.Throwables" />
+    <EXCLUDED_PACKAGE NAME="com.google.fifteen.common.collect.Lists" />
+    <EXCLUDED_PACKAGE NAME="com.google.inject.guava.shaded" />
+    <EXCLUDED_PACKAGE NAME="com.google.inject.guava.shaded.base.Optional" />
+    <EXCLUDED_PACKAGE NAME="com.google.inject.guava.shaded.collect.Maps" />
+    <EXCLUDED_PACKAGE NAME="com.google.seventeen.common.base.Optional" />
+    <EXCLUDED_PACKAGE NAME="com.google.seventeen.common.base.Throwables" />
+    <EXCLUDED_PACKAGE NAME="com.google.seventeen.common.collect.Lists" />
+    <EXCLUDED_PACKAGE NAME="com.google.ten" />
+    <EXCLUDED_PACKAGE NAME="com.google.ten.common.base.Optional" />
+    <EXCLUDED_PACKAGE NAME="com.google.ten.common.base.Throwables" />
+    <EXCLUDED_PACKAGE NAME="com.google.ten.common.collect.Lists" />
+    <EXCLUDED_PACKAGE NAME="com.google.thirteen" />
+    <EXCLUDED_PACKAGE NAME="com.google.thirteen.common.base.Optional" />
+    <EXCLUDED_PACKAGE NAME="com.google.thirteen.common.base.Throwables" />
+    <EXCLUDED_PACKAGE NAME="com.google.thirteen.common.collect.Lists" />
+    <EXCLUDED_PACKAGE NAME="com.sun.javafx" />
+    <EXCLUDED_PACKAGE NAME="com.sun.jersey.spi.inject" />
+    <EXCLUDED_PACKAGE NAME="com.sun.tools" />
+    <EXCLUDED_PACKAGE NAME="com.sun.tools.javac.util" />
+    <EXCLUDED_PACKAGE NAME="com.sun.xml" />
+    <EXCLUDED_PACKAGE NAME="edu.emory.backports.java.util.*" />
+    <EXCLUDED_PACKAGE NAME="edu.emory.mathcs.backport.java.util.Collections" />
+    <EXCLUDED_PACKAGE NAME="hidden" />
+    <EXCLUDED_PACKAGE NAME="hidden.hbase-shaded-wrapped.com.sun.jersey.spi.inject" />
+    <EXCLUDED_PACKAGE NAME="hidden.hscurator" />
+    <EXCLUDED_PACKAGE NAME="java.awt.List" />
+    <EXCLUDED_PACKAGE NAME="javafx.beans.binding.Bindings.when" />
+    <EXCLUDED_PACKAGE NAME="javax.inject" />
+    <EXCLUDED_PACKAGE NAME="javax.ws.rs.HEAD" />
+    <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal.ir.annotations.Immutable" />
+    <EXCLUDED_PACKAGE NAME="junit.framework" />
+    <EXCLUDED_PACKAGE NAME="org.apache.commons.id.uuid.UUID" />
+    <EXCLUDED_PACKAGE NAME="org.apache.curator.guava" />
+    <EXCLUDED_PACKAGE NAME="org.apache.curator.guava.base.Optional" />
+    <EXCLUDED_PACKAGE NAME="org.apache.curator.guava.collect" />
+    <EXCLUDED_PACKAGE NAME="org.apache.htrace.fasterxml.jackson.databind.ObjectMapper" />
+    <EXCLUDED_PACKAGE NAME="org.apache.http.client.HttpClient" />
+    <EXCLUDED_PACKAGE NAME="org.assertj.core.util.Strings" />
+    <EXCLUDED_PACKAGE NAME="org.codehaus.jackson.map.ObjectMapper" />
+    <EXCLUDED_PACKAGE NAME="org.elasticsearch.common" />
+    <EXCLUDED_PACKAGE NAME="org.elasticsearch.common.base.Joiner" />
+    <EXCLUDED_PACKAGE NAME="org.elasticsearch.common.base.Optional" />
+    <EXCLUDED_PACKAGE NAME="org.elasticsearch.common.base.Throwables" />
+    <EXCLUDED_PACKAGE NAME="org.elasticsearch.common.collect" />
+    <EXCLUDED_PACKAGE NAME="org.elasticsearch.common.inject" />
+    <EXCLUDED_PACKAGE NAME="org.elasticsearch.index.mapper.object.ObjectMapper" />
+    <EXCLUDED_PACKAGE NAME="org.fest.util.Strings" />
+    <EXCLUDED_PACKAGE NAME="org.junit.Assert.assertThat" />
+    <EXCLUDED_PACKAGE NAME="org.scribe.utils.Preconditions" />
+    <EXCLUDED_PACKAGE NAME="scala.collection" />
+    <EXCLUDED_PACKAGE NAME="sun.net.www.http.HttpClient" />
+    <EXCLUDED_PACKAGE NAME="sun.plugin.util.UserProfile" />
+    <EXCLUDED_PACKAGE NAME="sun.security.jca.ServiceId" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="nhirakawa custom" />
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseAccessors" value="true" />
+    <option name="collapseInnerClasses" value="true" />
+    <option name="collapseLambdas" value="false" />
+    <option name="collapseOneLineMethods" value="false" />
+  </component>
+  <component name="XmlSettings">
+    <option name="SHOW_XML_ADD_IMPORT_HINTS" value="false" />
+  </component>
+</application>
