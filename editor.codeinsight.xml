@@ -10,8 +10,6 @@
     <option name="ADD_IMPORTS_ON_PASTE" value="1" />
     <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
-    <EXCLUDED_PACKAGE NAME="" />
-    <EXCLUDED_PACKAGE NAME="" />
     <EXCLUDED_PACKAGE NAME="ch.qos.logback.classic.Logger" />
     <EXCLUDED_PACKAGE NAME="com.google.api.client.repackaged" />
     <EXCLUDED_PACKAGE NAME="com.google.api.client.repackaged.com.google.common.base.Strings" />
@@ -54,7 +52,6 @@
     <EXCLUDED_PACKAGE NAME="hidden.hscurator" />
     <EXCLUDED_PACKAGE NAME="java.awt.List" />
     <EXCLUDED_PACKAGE NAME="javafx.beans.binding.Bindings.when" />
-    <EXCLUDED_PACKAGE NAME="javax.inject" />
     <EXCLUDED_PACKAGE NAME="javax.ws.rs.HEAD" />
     <EXCLUDED_PACKAGE NAME="jdk.nashorn.internal.ir.annotations.Immutable" />
     <EXCLUDED_PACKAGE NAME="junit.framework" />
