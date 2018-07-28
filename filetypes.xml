@@ -9,10 +9,4 @@
     </extensionMap>
     <setting name="fileTypeChangedCounter" value="2" />
   </component>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping ext="pbrt" type="PLAIN_TEXT" />
-      <mapping ext="expr" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
 </application>
