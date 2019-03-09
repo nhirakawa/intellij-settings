@@ -13,6 +13,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="scene" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping ext="pbrt" type="PLAIN_TEXT" />
       <mapping ext="expr" type="PLAIN_TEXT" />
     </extensionMap>
