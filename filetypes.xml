@@ -12,6 +12,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="scene" type="PLAIN_TEXT" />
       <mapping ext="pbrt" type="PLAIN_TEXT" />
       <mapping ext="expr" type="PLAIN_TEXT" />
