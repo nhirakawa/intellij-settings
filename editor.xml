@@ -6,7 +6,6 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-    <option name="QUICK_DOC_ON_MOUSE_OVER_DELAY_MS" value="600" />
     <option name="IS_CAMEL_WORDS" value="true" />
   </component>
   <component name="InspectionProfileManager">
@@ -35,5 +34,8 @@
       <item index="7" class="java.lang.String" itemvalue="WARNING" />
       <item index="8" class="java.lang.String" itemvalue="ERROR" />
     </list>
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseOneLineMethods" value="false" />
   </component>
 </application>
