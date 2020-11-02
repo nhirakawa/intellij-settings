@@ -11,6 +11,8 @@
   </component>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="scene" type="PLAIN_TEXT" />
       <mapping ext="pbrt" type="PLAIN_TEXT" />
       <mapping ext="expr" type="PLAIN_TEXT" />
