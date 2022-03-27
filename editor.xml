@@ -1,4 +1,5 @@
 <application>
+  <component name="DaemonCodeAnalyzerSettings" profile="nhirakawa custom" />
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
